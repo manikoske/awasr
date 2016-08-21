@@ -1,0 +1,6642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>OmanBroadband</name>
+<visibility>1</visibility>
+<Style id="kml_style_ft_al_Hail_al_Shamaliyya_">
+<IconStyle>
+<color>ff00ff00</color>
+<scale>0.8</scale>
+</IconStyle>
+</Style>
+<Style id="KMLStyler">
+<IconStyle>
+<color>ff00ff00</color>
+<scale>0.4</scale>
+<Icon>
+<href>images/D2.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<color>ff000000</color>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ff000000</color>
+<gx:physicalWidth>1.0</gx:physicalWidth>
+<gx:labelVisibility>1</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>6600ff00</color>
+</PolyStyle>
+</Style>
+<Schema name="al Hail al Shamaliyya " id="kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleField type="xsd:string" name="POP">
+<displayName>POP</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="FDH">
+<displayName>FDH</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="NAP">
+<displayName>NAP</displayName>
+</SimpleField>
+<SimpleField type="xsd:double" name="TENANCIES">
+<displayName>TENANCIES</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="TAG_ID">
+<displayName>TAG_ID</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_al_Hail_al_Shamaliyya_">
+<name>al Hail al Shamaliyya </name>
+<Placemark id="kml_1">
+<name>ALK221/4/8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/4/8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/4/8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2425922318518,23.6244616099481,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>ALK221/5/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/5/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/5/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2424293844292,23.6240838163271,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>ALK221/5/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/5/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/5/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.24256164069,23.6239554757988,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>ALK221/5/4-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/5/4-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/5/4-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2426872335663,23.6238170798264,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>ALK221/5/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/5/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/5/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2427734639154,23.623640993636,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>ALK221/6/1-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/6/1-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK221/6/1-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2425892908406,23.6248466124046,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>ALK221/6/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/6/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/6/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.242905842567,23.6248690013288,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>ALK221/6/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/6/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/6/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2430076571111,23.6251597458977,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>ALK221/7/1-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/7/1-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK221/7/1-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2433505671465,23.6254262349041,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>ALK221/7/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/7/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/7/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2435800518987,23.6256132729525,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>ALK221/7/5-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/7/5-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/7/5-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2439151783366,23.6256424974485,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>ALK221/8/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/8/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/8/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2423088163201,23.62500639012,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>ALK221/8/3-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/8/3-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK221/8/3-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2426022029626,23.6251774131135,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>ALK221/8/7-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/8/7-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/8/7-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429091175497,23.6253392344608,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>ALK221/9/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2439247016738,23.6253370286387,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>ALK221/9/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2440063508409,23.6250411913695,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>ALK221/9/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2440779383258,23.6248846581215,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>ALK221/9/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2440995640255,23.6254277464105,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>ALK221/9/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2442623660153,23.6252312497766,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>ALK221/9/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2444531105009,23.6247067668667,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>ALK221/9/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/9/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/9/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2444681618057,23.6245657185681,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>ALK221/10/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2441315706641,23.6257530607519,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>ALK221/10/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2442703975999,23.625575385165,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_24">
+<name>ALK221/10/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.244406682971,23.6254286745942,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_25">
+<name>ALK221/10/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2445984952022,23.6251439776503,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_26">
+<name>ALK221/10/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2446208135114,23.6249506441168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_27">
+<name>ALK221/10/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/10/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/10/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2447522583944,23.6248666572426,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_28">
+<name>ALK221/11/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2448048554731,23.6245506058911,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_29">
+<name>ALK221/11/2-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/2-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/2-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2448283960522,23.6250479199004,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_30">
+<name>ALK221/11/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2449991151651,23.6247628308933,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_31">
+<name>ALK221/11/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2450701962017,23.6244160937109,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_32">
+<name>ALK221/11/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2451009025754,23.6248807030112,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_33">
+<name>ALK221/11/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/11/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">11</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/11/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2451972589243,23.6247419716409,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_34">
+<name>ALK221/12/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/12/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">12</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/12/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2448468841173,23.6242096877179,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_35">
+<name>ALK221/12/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/12/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">12</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/12/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2450973517579,23.6239311566657,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_36">
+<name>ALK221/12/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/12/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">12</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/12/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2452721509981,23.6242773123095,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_37">
+<name>ALK221/12/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/12/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">12</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/12/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2453158193506,23.6240619570802,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_38">
+<name>ALK221/12/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/12/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">12</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/12/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.245489807404,23.6241855234556,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_39">
+<name>ALK221/13/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/13/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">13</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/13/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2453949733203,23.6245536984304,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_40">
+<name>ALK221/13/2-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/13/2-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">13</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/13/2-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2455321575373,23.624742445299,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_41">
+<name>ALK221/13/4-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/13/4-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">13</SimpleData>
+<SimpleData name="TENANCIES">5</SimpleData>
+<SimpleData name="TAG_ID">ALK221/13/4-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2456313736579,23.6244439058973,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_42">
+<name>ALK221/14/1-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/14/1-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">14</SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK221/14/1-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2457291692993,23.6246686567756,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_43">
+<name>ALK221/16/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/16/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/16/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2447852013045,23.6253682570083,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_44">
+<name>ALK221/16/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/16/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/16/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2449765644157,23.6255658248895,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_45">
+<name>ALK221/16/5-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/16/5-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/16/5-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2452022753617,23.625298289176,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_46">
+<name>ALK221/16/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/16/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/16/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2453557502687,23.6251567755217,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_47">
+<name>ALK221/16/8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/16/8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/16/8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2453999313722,23.6252546892075,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_48">
+<name>ALK221/17/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/17/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/17/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2451304069888,23.6257229716504,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_49">
+<name>ALK221/17/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/17/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/17/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.245295411894,23.6258804675661,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_50">
+<name>ALK221/17/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/17/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/17/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2453884737613,23.6256397868593,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_51">
+<name>ALK221/17/4-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/17/4-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/17/4-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2455672498576,23.6254544335174,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_52">
+<name>ALK221/18/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/18/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/18/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2445700845656,23.6259348589432,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_53">
+<name>ALK221/18/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/18/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/18/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2447293581763,23.6261788884937,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_54">
+<name>ALK221/18/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/18/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/18/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2447558935818,23.6257683136848,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_55">
+<name>ALK221/18/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/18/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/18/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2448487862456,23.6261282320892,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_56">
+<name>ALK221/18/6-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/18/6-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK221/18/6-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2450104650674,23.6259925494331,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_57">
+<name>ALK221/19/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/19/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/19/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2451349853617,23.6251536335142,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_58">
+<name>ALK221/19/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/19/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/19/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2455932465542,23.625034024284,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_59">
+<name>ALK221/19/3-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/19/3-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK221/19/3-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2458559808464,23.6248713071683,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_60">
+<name>ALK221/19/6-9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/19/6-9</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK221/19/6-9</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2459925188608,23.6252206247753,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_61">
+<name>ALK221/20/1-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/20/1-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">5</SimpleData>
+<SimpleData name="TAG_ID">ALK221/20/1-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.246035692301,23.62505822008,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_62">
+<name>ALK221/1/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/1/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/1/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2440094816819,23.6242931565443,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_63">
+<name>ALK221/1/2-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/1/2-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK221/1/2-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2441719779274,23.6244378774949,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_64">
+<name>ALK221/1/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/1/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/1/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2442012125177,23.624164484998,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_65">
+<name>ALK221/1/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/1/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/1/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2442851323312,23.6246378896666,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_66">
+<name>ALK221/1/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/1/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/1/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.244483492407,23.6243601395905,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_67">
+<name>ALK221/2/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2432012531041,23.6251185682072,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_68">
+<name>ALK221/2/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2433075320807,23.624736734076,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_69">
+<name>ALK221/2/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2434193766139,23.6249980770426,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_70">
+<name>ALK221/2/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2435197985411,23.6246632062885,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_71">
+<name>ALK221/2/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2435833665882,23.6250958339338,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_72">
+<name>ALK221/2/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.243743747495,23.6252181692823,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_73">
+<name>ALK221/2/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/2/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/2/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2438125744915,23.6249117915327,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_74">
+<name>ALK221/3/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/3/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/3/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429085888764,23.6247128610978,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_75">
+<name>ALK221/3/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/3/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/3/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429517271537,23.6244080883876,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_76">
+<name>ALK221/3/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/3/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/3/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429549400634,23.6240788040229,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_77">
+<name>ALK221/3/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/3/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/3/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429999318038,23.6248149892168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_78">
+<name>ALK221/3/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/3/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/3/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2431437945474,23.624284618331,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_79">
+<name>ALK221/4/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/4/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK221/4/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2422046453518,23.6243430812811,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_80">
+<name>ALK221/4/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/4/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/4/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2422840095291,23.6242388182591,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_81">
+<name>ALK221/4/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/4/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK221/4/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2423230161093,23.6241788290616,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_82">
+<name>ALK221/4/5-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>221</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK221/4/5-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">221</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK221/4/5-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2424844835859,23.6246341736745,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_83">
+<name>ALK(i)224/1/42-72</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>(i)224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>31</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK(i)224/1/42-72</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">(i)224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">31</SimpleData>
+<SimpleData name="TAG_ID">ALK(i)224/1/42-72</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2399822887449,23.6223520273802,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_84">
+<name>ALK222/2/1-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/2/1-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK222/2/1-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2425500861249,23.6228986334441,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_85">
+<name>ALK222/2/4-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/2/4-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK222/2/4-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2427415705427,23.6226588032915,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_86">
+<name>ALK222/2/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/2/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK222/2/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429178826993,23.6224218453844,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_87">
+<name>ALK222/6/1-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/6/1-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK222/6/1-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2423574111632,23.6232438516669,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_88">
+<name>ALK222/6/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/6/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK222/6/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2425125103325,23.623463343146,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_89">
+<name>ALK222/7/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/7/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK222/7/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2434773313241,23.6240606883424,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_90">
+<name>ALK222/7/2-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/7/2-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK222/7/2-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2436853535439,23.6236501083924,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_91">
+<name>ALK222/7/4-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/7/4-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK222/7/4-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2439793525188,23.6236172086227,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_92">
+<name>ALK222/7/7-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/7/7-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK222/7/7-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2445691617719,23.6238336183467,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_93">
+<name>ALK222/8/1-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/8/1-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">6</SimpleData>
+<SimpleData name="TAG_ID">ALK222/8/1-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2440431513727,23.6233436726578,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_94">
+<name>ALK222/3-5/1-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/1-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/1-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2427424085307,23.6232467246044,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_95">
+<name>ALK222/3-5/5-12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>8</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/5-12</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">8</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/5-12</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2428212316061,23.6230239319603,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_96">
+<name>ALK222/3-5/13-16</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/13-16</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/13-16</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2429672641441,23.6234755370831,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_97">
+<name>ALK222/3-5/17-20</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/17-20</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">4</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/17-20</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2432981144579,23.6234436086697,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_98">
+<name>ALK222/3-5/21-22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/21-22</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/21-22</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2435182949945,23.6229961100876,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_99">
+<name>ALK222/3-5/23-24</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>222</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3,4,5 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK222/3-5/23-24</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">222</SimpleData>
+<SimpleData name="NAP">3,4,5 </SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK222/3-5/23-24</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2435267687532,23.6232374093283,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_100">
+<name>ALK223/1/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/1/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/1/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2402286702609,23.6233648926777,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_101">
+<name>ALK223/1/2-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/1/2-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/1/2-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2403110815544,23.623233630725,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_102">
+<name>ALK223/1/4-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/1/4-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/1/4-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.240395052523,23.6230876262412,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_103">
+<name>ALK223/1/6-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/1/6-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/1/6-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408814245483,23.6230315264811,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_104">
+<name>ALK223/1/9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/1/9</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/1/9</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2409606668443,23.6227451176827,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_105">
+<name>ALK223/2/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/2/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/2/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2411028929411,23.6233918200757,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_106">
+<name>ALK223/2/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/2/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/2/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2412709751689,23.6232818318938,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_107">
+<name>ALK223/2/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/2/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/2/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2413359718395,23.6236058663018,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_108">
+<name>ALK223/2/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/2/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">2</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/2/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2415009111718,23.623525674629,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_109">
+<name>ALK223/3/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2410397485079,23.6229699890415,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_110">
+<name>ALK223/3/2-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/2-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/2-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2411378898568,23.6229139533554,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_111">
+<name>ALK223/3/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.241479445298,23.6229905335289,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_112">
+<name>ALK223/3/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2416953540071,23.6231607929859,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_113">
+<name>ALK223/3/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2417058793037,23.6234610872979,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_114">
+<name>ALK223/3/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.241854192797,23.6233633811973,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_115">
+<name>ALK223/3/8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/3/8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">3</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/3/8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2419932802701,23.6232639822953,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_116">
+<name>ALK223/4/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/4/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/4/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2405124487629,23.6233393242568,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_117">
+<name>ALK223/4/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/4/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/4/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2406637779488,23.6234798060494,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_118">
+<name>ALK223/4/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/4/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/4/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2407023738414,23.6239039540946,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_119">
+<name>ALK223/4/5-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/4/5-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/4/5-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408001654182,23.6236145621278,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_120">
+<name>ALK223/4/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/4/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">4</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/4/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408399168833,23.6238260792395,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_121">
+<name>ALK223/5/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2407406685153,23.6241806950443,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_122">
+<name>ALK223/5/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408585718757,23.6241461241637,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_123">
+<name>ALK223/5/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2409731027031,23.6243474419826,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_124">
+<name>ALK223/5/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2409803308928,23.6240281826058,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_125">
+<name>ALK223/5/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2413242221243,23.6238579628147,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_126">
+<name>ALK223/5/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2415139143815,23.6238590767623,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_127">
+<name>ALK223/5/8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/5/8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">5</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/5/8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2416202693134,23.6238414248047,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_128">
+<name>ALK223/6/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2413535775837,23.6240273552477,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_129">
+<name>ALK223/6/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2413873270528,23.6241965093085,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_130">
+<name>ALK223/6/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2414989477151,23.6245499836864,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_131">
+<name>ALK223/6/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2415636869238,23.6244362414025,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_132">
+<name>ALK223/6/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2416467418623,23.6243505644252,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_133">
+<name>ALK223/6/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2417473864577,23.6240862840551,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_134">
+<name>ALK223/6/7-8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/6/7-8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">6</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/6/7-8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2418562890815,23.6243461083945,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_135">
+<name>ALK223/7/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/7/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/7/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2417330508155,23.6247220336847,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_136">
+<name>ALK223/7/2-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/7/2-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/7/2-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2419357286689,23.6248556539017,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_137">
+<name>ALK223/7/5-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/7/5-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">7</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/7/5-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2420961143444,23.6245613664424,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_138">
+<name>ALK223/8/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408526457265,23.6225070445768,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_139">
+<name>ALK223/8/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.241265987145,23.6228238657536,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_140">
+<name>ALK223/8/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2418023705673,23.6237044305189,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_141">
+<name>ALK223/8/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2419987104244,23.6240644035984,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_142">
+<name>ALK223/8/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2421667563452,23.6235550787324,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_143">
+<name>ALK223/8/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/8/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">8</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/8/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2423186363356,23.6238595470722,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_144">
+<name>ALK223/9/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/9/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/9/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.240101077882,23.6225541238678,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_145">
+<name>ALK223/9/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/9/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/9/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2402363054565,23.6224045967126,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_146">
+<name>ALK223/9/5-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/9/5-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">9</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/9/5-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2404326564925,23.6227532087946,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_147">
+<name>ALK223/10/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/10/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/10/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2400728992279,23.6232877931658,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_148">
+<name>ALK223/10/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/10/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/10/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2401422368251,23.6231435088168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_149">
+<name>ALK223/10/3-4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/10/3-4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">10</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/10/3-4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2402165451186,23.6229912425971,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_150">
+<name>ALK223/13/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/13/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">13</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/13/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2396337577401,23.6236057906059,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_151">
+<name>ALK223/13/2-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/13/2-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">13</SimpleData>
+<SimpleData name="TENANCIES">6</SimpleData>
+<SimpleData name="TAG_ID">ALK223/13/2-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2398286506637,23.6234029125046,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_152">
+<name>ALK223/14/1-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/14/1-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">14</SimpleData>
+<SimpleData name="TENANCIES">6</SimpleData>
+<SimpleData name="TAG_ID">ALK223/14/1-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2397016559994,23.6233343357846,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_153">
+<name>ALK223/15/1-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>7</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/15/1-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">15</SimpleData>
+<SimpleData name="TENANCIES">7</SimpleData>
+<SimpleData name="TAG_ID">ALK223/15/1-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2395842979823,23.6232426675447,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_154">
+<name>ALK223/16/1-3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/16/1-3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/16/1-3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2396860965207,23.6240657547479,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_155">
+<name>ALK223/16/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/16/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/16/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2399336997813,23.6242270960857,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_156">
+<name>ALK223/16/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/16/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/16/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2402495966181,23.6242546525962,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_157">
+<name>ALK223/16/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/16/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/16/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2404948908303,23.6243277650039,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_158">
+<name>ALK223/16/7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/16/7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">16</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/16/7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2407733094897,23.6243427586361,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_159">
+<name>ALK223/17/1-9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>9</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/17/1-9</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">9</SimpleData>
+<SimpleData name="TAG_ID">ALK223/17/1-9</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2397882766753,23.6240079472775,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_160">
+<name>ALK223/18/1-5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/18/1-5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">18</SimpleData>
+<SimpleData name="TENANCIES">5</SimpleData>
+<SimpleData name="TAG_ID">ALK223/18/1-5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2400529953925,23.6241520355726,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_161">
+<name>ALK223/19/1-2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/19/1-2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">2</SimpleData>
+<SimpleData name="TAG_ID">ALK223/19/1-2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2398951710531,23.6238628372983,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_162">
+<name>ALK223/19/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/19/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/19/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2399990678188,23.6237740603531,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_163">
+<name>ALK223/19/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/19/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/19/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2400775681755,23.6236866865828,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_164">
+<name>ALK223/19/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/19/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/19/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2402109646533,23.6238641164219,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_165">
+<name>ALK223/19/6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/19/6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">19</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/19/6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2403493916494,23.6239790717608,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_166">
+<name>ALK223/20/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2404269116236,23.6235339558102,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_167">
+<name>ALK223/20/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2404570485203,23.6241856027141,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_168">
+<name>ALK223/20/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2405779422045,23.6237725983553,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_169">
+<name>ALK223/20/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.24068179153,23.6240418095917,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_170">
+<name>ALK223/20/5-7</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/5-7</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">3</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/5-7</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2406815916615,23.6236939415949,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_171">
+<name>ALK223/20/8</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/8</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/8</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2407105360544,23.6241080291882,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_172">
+<name>ALK223/20/9</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/20/9</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">20</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK223/20/9</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2408080330195,23.624030101595,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_173">
+<name>ALK223/11-12/1-12</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>223</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>11,12 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>12</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK223/11-12/1-12</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">223</SimpleData>
+<SimpleData name="NAP">11,12 </SimpleData>
+<SimpleData name="TENANCIES">12</SimpleData>
+<SimpleData name="TAG_ID">ALK223/11-12/1-12</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2398323741576,23.6230130031313,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_174">
+<name>ALK224/1/1</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/1/1</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK224/1/1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2405919198183,23.6214516474314,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_175">
+<name>ALK224/1/2</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/1/2</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK224/1/2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2407369895611,23.6211948199777,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_176">
+<name>ALK224/1/3</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/1/3</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK224/1/3</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2409102322565,23.621649037565,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_177">
+<name>ALK224/1/4</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/1/4</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK224/1/4</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2410581142821,23.6213492011424,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_178">
+<name>ALK224/1/5</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/1/5</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">1</SimpleData>
+<SimpleData name="TENANCIES">1</SimpleData>
+<SimpleData name="TAG_ID">ALK224/1/5</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2414421025903,23.6217806966606,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_179">
+<name>ALK224/17/1-6</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>6</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/17/1-6</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">17</SimpleData>
+<SimpleData name="TENANCIES">6</SimpleData>
+<SimpleData name="TAG_ID">ALK224/17/1-6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2392881316748,23.6232792628733,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_180">
+<name>ALK224/12-14/1-23</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>12,13,14 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>23</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/12-14/1-23</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">12,13,14 </SimpleData>
+<SimpleData name="TENANCIES">23</SimpleData>
+<SimpleData name="TAG_ID">ALK224/12-14/1-23</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2396211543693,23.6229258699168,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_181">
+<name>ALK224/15-16/1-15</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>15,16 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>15</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/15-16/1-15</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">15,16 </SimpleData>
+<SimpleData name="TENANCIES">15</SimpleData>
+<SimpleData name="TAG_ID">ALK224/15-16/1-15</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2394602537211,23.6231335445732,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_182">
+<name>ALK224/18-19/1-10</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>18,19 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>10</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/18-19/1-10</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">18,19 </SimpleData>
+<SimpleData name="TENANCIES">10</SimpleData>
+<SimpleData name="TAG_ID">ALK224/18-19/1-10</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2393221293351,23.623517501229,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_183">
+<name>ALK224/9-11/1-22</name>
+<visibility>1</visibility>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr bgcolor="#E3E3F3">
+<th>POP</th>
+<td>ALK</td>
+</tr><tr bgcolor="">
+<th>FDH</th>
+<td>224</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>NAP</th>
+<td>9,10,11 </td>
+</tr><tr bgcolor="">
+<th>TENANCIES</th>
+<td>22</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>TAG_ID</th>
+<td>ALK224/9-11/1-22</td>
+</tr></table></center>]]></description>
+<styleUrl>#KMLStyler</styleUrl>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_al_Hail_al_Shamaliyya_">
+<SimpleData name="POP">ALK</SimpleData>
+<SimpleData name="FDH">224</SimpleData>
+<SimpleData name="NAP">9,10,11 </SimpleData>
+<SimpleData name="TENANCIES">22</SimpleData>
+<SimpleData name="TAG_ID">ALK224/9-11/1-22</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>58.2398624619813,23.6227480900854,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
