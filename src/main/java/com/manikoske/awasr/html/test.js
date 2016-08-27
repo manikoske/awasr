@@ -6,17 +6,16 @@ if (typeof(networkAreas) == 'undefined') {
     networkAreas.REGISTRATION_FRAGMENT = "#registration-block";
     // networkAreas.KMZ_BASE_URL = "http://www.awasr.om/KMZ/";
     // networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/ztr5j6tplyryaxu/";
-    networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/df5e3zggl4la9zh/";
+    networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/cgpf3ipwm4s92pv/";
     networkAreas.MAP_ELEMENT_ID = "map_canvas";
 
-    // https://www.dropbox.com/s/df5e3zggl4la9zh/Al-Koudh2.zip?dl=0
+    // https://www.dropbox.com/s/cgpf3ipwm4s92pv/Al%20Khod.zip?dl=0
 
 
     networkAreas.areas = {
         alKoudh : {
             title: "Al-Koudh",
-            // kmlUrlSuffix: "Al-Koudh.zip",
-            kmlUrlSuffix: "Al-Koudh2.zip?dl=1",
+            kmlUrlSuffix: "Al-Khod.zip?dl=1",
             lat: 23.627010,
             lng: 58.206414,
         },
