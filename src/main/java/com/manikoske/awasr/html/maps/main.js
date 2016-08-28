@@ -1,42 +1,45 @@
 if (typeof(networkAreas) == 'undefined') {
 
     networkAreas = {};
-
     networkAreas.SERVICE_HTML_URL = "register.html?";
     networkAreas.REGISTRATION_FRAGMENT = "#registration-block";
-    // networkAreas.KMZ_BASE_URL = "http://www.awasr.om/KMZ/";
-    // networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/ztr5j6tplyryaxu/";
-    networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/cgpf3ipwm4s92pv/";
+    networkAreas.KMZ_BASE_URL = "https://www.dropbox.com/s/";
     networkAreas.MAP_ELEMENT_ID = "map_canvas";
-
-    // https://www.dropbox.com/s/cgpf3ipwm4s92pv/Al%20Khod.zip?dl=0
-
 
     networkAreas.areas = {
         alKoudh : {
             title: "Al-Koudh",
-            kmlUrlSuffix: "Al-Khod.zip?dl=1",
+            kmlUrlSuffix: "8dk0tx9s7hp9yth/Al-Khod.zip?dl=1",
             lat: 23.627010,
             lng: 58.206414,
+            initialize : function() {
+                networkAreas.initialize(networkAreas.areas.alKoudh);
+            }
+        },
+        shattiAlQurum : {
+            title: "Shati-Al-Qurum",
+            kmlUrlSuffix: "gaxt9z52l1545y5/Shatti-Al-Qurum.zip?dl=1",
+            lat: 23.604119,
+            lng: 58.4518555,
+            initialize : function() {
+                networkAreas.initialize(networkAreas.areas.shattiAlQurum);
+            }
         },
     }
 
-    networkAreas.currentlySelected = networkAreas.areas.alKoudh;
-
-    networkAreas.getKmzUrl = function() {
-        return networkAreas.KMZ_BASE_URL + networkAreas.currentlySelected.kmlUrlSuffix;
+    networkAreas.getKmzUrl = function(area) {
+        return networkAreas.KMZ_BASE_URL + area.kmlUrlSuffix;
     }
 
-
-    networkAreas.initialize = function() {
+    networkAreas.initialize = function(area) {
         var myOptions = {
             zoom: 14,
-            center: new google.maps.LatLng(networkAreas.currentlySelected.lat, networkAreas.currentlySelected.lng),
+            center: new google.maps.LatLng(area.lat, area.lng),
             mapTypeId: google.maps.MapTypeId.SATELLITE
         }
         var map = new google.maps.Map(document.getElementById(networkAreas.MAP_ELEMENT_ID), myOptions);
         var marker = new google.maps.Marker({ map: map });
-        var layer = new google.maps.KmlLayer(networkAreas.getKmzUrl(), { preserveViewport: true, suppressInfoWindows: true});
+        var layer = new google.maps.KmlLayer(networkAreas.getKmzUrl(area), { preserveViewport: true, suppressInfoWindows: true});
         layer.setMap(map);
 
         //Resize Function
@@ -51,7 +54,7 @@ if (typeof(networkAreas) == 'undefined') {
         });
 
         function showInContentWindow(position, text) {
-            var content = networkAreas.getPopUpContent(text);
+            var content = networkAreas.getPopUpContent(text, area);
 
             var infowindow = new google.maps.InfoWindow({
                 content: content,
@@ -61,7 +64,7 @@ if (typeof(networkAreas) == 'undefined') {
         }
     }
 
-    networkAreas.getPopUpContent = function (text) {
+    networkAreas.getPopUpContent = function (text, area) {
         var descriptions = text.split("~");
         var fibreHub = descriptions[0];
         var networkPoint = descriptions[1];
@@ -71,7 +74,7 @@ if (typeof(networkAreas) == 'undefined') {
         var latitude = descriptions[5];
 
         
-        var redirectUrl = networkAreas.SERVICE_HTML_URL + "tagId=" + tagId  + "&district=" + networkAreas.currentlySelected.title + "&long=" + longitude + "&lat=" + latitude +  networkAreas.REGISTRATION_FRAGMENT;
+        var redirectUrl = networkAreas.SERVICE_HTML_URL + "tagId=" + tagId  + "&district=" + area.title + "&long=" + longitude + "&lat=" + latitude +  networkAreas.REGISTRATION_FRAGMENT;
         var content = ""+
             "<table style='font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:0px 3px 3px 3px'>"+
             "<tr>"+
@@ -86,7 +89,7 @@ if (typeof(networkAreas) == 'undefined') {
             "<tr>"+
             "<tr style='background:#D4E4F3;'>"+
             "<td>District</td>"+
-            "<td>"+networkAreas.currentlySelected.title+"</td>"+
+            "<td>"+area.title+"</td>"+
             "</tr>"+
             "<tr>"+
             "<td>Longitude</td>"+
@@ -125,23 +128,5 @@ if (typeof(networkAreas) == 'undefined') {
     }
 }
 
-//var TITLE_AL_MAWALEH_PHASE_1 = "Al-Mawaleh";
-//var TITLE_AL_MAWALEH_PHASE_2 = "Al-Mawaleh South";
-//var TITLE_AL_HAIL = "Al-Hail";
-//var TITLE_AL_MAABILAH_WEST = "Al-Maabilah West";
-//var TITLE_AL_MAABILAH_SOUTH = "Al-Maabilah South";
-//var TITLE_AL_MAABILAH_NORTH = "Al-Maabilah North";
-//var TITLE_AL_QURUM = "Shati-Al-Qurum";
 
-
-
-//var KMZ_URLS = {};
-//KMZ_URLS[TITLE_AL_KOUDH] = KMZ_BASE_URL+"Al-Koudh.zip";
-//KMZ_URLS[TITLE_AL_MAWALEH_PHASE_1] = KMZ_BASE_URL+"mawalih-south-phase1.zip";
-//KMZ_URLS[TITLE_AL_MAWALEH_PHASE_2] = KMZ_BASE_URL+"mawalih-south-phase2.zip";
-//KMZ_URLS[TITLE_AL_HAIL] = KMZ_BASE_URL+"Al-Hail.zip";
-//KMZ_URLS[TITLE_AL_MAABILAH_WEST] = KMZ_BASE_URL+"Al-Maabilah-West.zip";
-//KMZ_URLS[TITLE_AL_MAABILAH_SOUTH] = KMZ_BASE_URL+"Al-Maabilah-South.zip";
-//KMZ_URLS[TITLE_AL_MAABILAH_NORTH] = KMZ_BASE_URL+"Al-Maabilah-North.zip";
-//KMZ_URLS[TITLE_AL_QURUM] = KMZ_BASE_URL+"Shati-Al-Qurum.zip";
 

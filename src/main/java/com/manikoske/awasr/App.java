@@ -44,14 +44,14 @@ public class App
         m.setProperty("com.sun.xml.bind.namespacePrefixMapper", mapper);
 
         List<MapEntry> maps = new LinkedList<>();
-        maps.add(new MapEntry("Al Seeb", "MBL", Arrays.asList("alSharadi.kml", "alSeebJadida.kml", "surElHadid.kml")));
-        maps.add(new MapEntry("Al Mawalih North", "ALK", Arrays.asList("alMawalihAlShamaliyya.kml")));
-        maps.add(new MapEntry("Al Hail North", null, Arrays.asList("alHailAlShamaliyya.kml")));
-        maps.add(new MapEntry("Al Hail South", null, Arrays.asList("alHailAlJanubiyya.kml")));
-        maps.add(new MapEntry("Al Khod", null, Arrays.asList("alKhaud.kml")));
-        maps.add(new MapEntry("Al Mawalih South", null, Arrays.asList("alMawalihAlJanubiyya.kml")));
-        maps.add(new MapEntry("Al Mabelah", null, Arrays.asList("alMabailaAlShamaliyya.kml", "alMabailaAlJanubiyya.kml")));
-        maps.add(new MapEntry("Shatti Al Qurum", null, Arrays.asList("hayAlSaruj.kml")));
+        maps.add(new MapEntry("Al-Seeb", "MBL", Arrays.asList("alSharadi.kml", "alSeebJadida.kml", "surElHadid.kml")));
+        maps.add(new MapEntry("Al-Mawalih-North", "ALK", Arrays.asList("alMawalihAlShamaliyya.kml")));
+        maps.add(new MapEntry("Al-Hail-North", null, Arrays.asList("alHailAlShamaliyya.kml")));
+        maps.add(new MapEntry("Al-Hail-South", null, Arrays.asList("alHailAlJanubiyya.kml")));
+        maps.add(new MapEntry("Al-Khod", null, Arrays.asList("alKhaud.kml")));
+        maps.add(new MapEntry("Al-Mawalih-South", null, Arrays.asList("alMawalihAlJanubiyya.kml")));
+        maps.add(new MapEntry("Al-Mabelah", null, Arrays.asList("alMabailaAlShamaliyya.kml", "alMabailaAlJanubiyya.kml")));
+        maps.add(new MapEntry("Shatti-Al-Qurum", null, Arrays.asList("hayAlSaruj.kml")));
 
         String resultName;
         List<String> inputFiles;
@@ -162,7 +162,5 @@ public class App
             this.tagRestriction = tagRestriction;
             this.inputKmls = inputKmls;
         }
-
-
     }
 }
