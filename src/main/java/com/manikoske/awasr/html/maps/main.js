@@ -25,6 +25,15 @@ if (typeof(networkAreas) == 'undefined') {
                 networkAreas.initialize(networkAreas.areas.shattiAlQurum);
             }
         },
+        shattiAlQurum : {
+            title: "Shati-Al-Qurum",
+            kmlUrlSuffix: "gaxt9z52l1545y5/Shatti-Al-Qurum.zip?dl=1",
+            lat: 23.604119,
+            lng: 58.4518555,
+            initialize : function() {
+                networkAreas.initialize(networkAreas.areas.shattiAlQurum);
+            }
+        },
     }
 
     networkAreas.getKmzUrl = function(area) {
