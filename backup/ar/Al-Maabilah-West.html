@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <title>Al Maabilah West</title>
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <style>
+article, aside, figure, footer, header, hgroup, menu, nav, section { display: block; }
+html, body, #map_canvas { margin: 0; padding: 0; }
+.ftth-coverage-Map { padding: 0; margin: 0; }
+#map_container { position: relative; }
+#map_canvas { height: 0; overflow: hidden; padding-bottom: 22.25%; padding-top: 30px; position: relative; }
+</style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="jquery.responsiveiframe.js"></script>
+    <script type="text/javascript" src="js/placemarkformatting.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript">	
+		var ir = responsiveIframe();
+		ir.allowResponsiveEmbedding();
+	</script>
+    <script type="text/javascript">
+        var geocoder;
+        var map;
+        var marker;
+        var layers = [];
+		var zoom_level;
+        function initialize(latlng_val, zoom_level) {
+            geocoder = new google.maps.Geocoder();
+			var latlng;
+            if (latlng_val == "")
+                latlng = new google.maps.LatLng(23.644654, 58.102920);
+            else {
+                latlng = latlng_val;
+            }
+            var myOptions = {
+                zoom: 14,
+                center: latlng,
+                //mapTypeId: google.maps.MapTypeId.ROADMAP
+				mapTypeId: google.maps.MapTypeId.SATELLITE
+            }
+            map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+            marker = new google.maps.Marker({ map: map });
+            layers[0] = new google.maps.KmlLayer(KMZ_URLS[TITLE_AL_MAABILAH_WEST], { preserveViewport: true, suppressInfoWindows: true});
+            for (var i = 0; i < layers.length; i++) {
+                layers[i].setMap(map);
+            }
+			//Resize Function
+			google.maps.event.addDomListener(window, "resize", function() {
+				var center = map.getCenter();
+				google.maps.event.trigger(map, "resize");
+				map.setCenter(center);
+			});
+
+            google.maps.event.addListener(layers[0], 'click', function(kmlEvent) {
+                showInContentWindow(kmlEvent.latLng, kmlEvent.featureData.description);
+            });
+
+            function showInContentWindow(position, text) {
+                var content = createPlacemarkContent(text, TITLE_AL_MAABILAH_WEST);
+
+                var infowindow = new google.maps.InfoWindow({
+                    content: content,
+                    position: position
+                })
+                infowindow.open(map);
+            }
+        }
+		//google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68283731-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </head>
+    <body onload="initialize('',14);">
+    <div id="map_container" class="ftth-coverage-Map">
+      <div id="map_canvas" style="width:100%; height:500px;"></div>
+    </div>
+</body>
+</html>

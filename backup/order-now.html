@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="subject" content="Awasr"/>
+    <meta name="description"
+          content="Awasr enables faster better broadband in Oman to make people more productive by being better at unlocking the power & enjoyment of the internet."/>
+    <meta name="author" content="Awasr |  email:  info@Awasr.com | Sultanate of Oman">
+    <meta name="language" content="en"/>
+    <meta name="copyright" content="www.awasr.om"/>
+    <meta name="robots" content="index, follow"/>
+    <meta name="document-distribution" content="Global"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+    <title>Awasr</title>
+    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" href="css/navigation.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+    <script type="text/javascript" src="js/accordian.js"></script>
+    <script type="text/javascript" src="js/ddaccordion.js"></script>
+    <script src="js/navigation.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-68142043-1', 'auto');
+        ga('send', 'pageview');
+
+        ga('create', 'UA-68283731-4', 'auto', {'name': 'b'});
+        ga('b.send', 'pageview');
+
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#menu').slicknav();
+
+            var hash = window.location.hash;
+            if (hash != "") {
+                hash = hash.replace("#", "");
+
+                $("._tab_map a").removeClass('selected');
+                $("._tab_map").find("[data-value='" + hash + "']").addClass('selected');
+
+                $("._tab_map option").removeAttr("selected");
+                $("._tab_map option[value='" + hash + "']").attr("selected", "selected");
+
+                $("._tab_map_content").hide();
+                $("." + hash).show();
+            }
+
+            $("._tab_map a").bind('click', function (e) {
+                e.preventDefault();
+                console.log($(this).attr('data-value'));
+
+                $("._tab_map a").removeClass('selected');
+                $(this).addClass('selected');
+
+                $("._tab_map option").removeAttr("selected");
+                $("._tab_map option[value='" + $(this).attr('data-value') + "']").attr("selected", "selected");
+
+                $("._tab_map_content").hide();
+                $("." + $(this).attr('data-value')).show();
+            })
+
+            $("select._tab_map").bind('change', function () {
+                var opt = $(this).val();
+                console.log(opt);
+
+
+                $("._tab_map a").removeClass('selected');
+                $("._tab_map").find("[data-value='" + opt + "']").addClass('selected');
+
+                $("._tab_map_content").hide();
+                $("." + opt).show();
+            })
+
+        });
+    </script>
+</head>
+
+
+<body>
+<div id="main">
+
+    <div id="topbar">
+        <div class="container">
+            <h1 id="logo"><a href="index.html">Awasr</a></h1>
+            <a href="ar/order-now.html" class="cta lang transitions">العربية</a>
+            <a href="order-now.html" class="cta trial transitions">Order Now</a>
+
+            <div id="navigation">
+                <ul id="menu">
+                    <li><a href="about.html" class="transitions">About us</a></li>
+                    <!--<li><a href="network.html" class="transitions current">Our Network</a></li>-->
+                    <li><a href="home-products.html" class="transitions">Fibrenet Home</a></li>
+                    <li><a href="business-products.html" class="transitions">Fibrenet Business</a></li>
+                    <li><a href="career.html" class="transitions">Career</a></li>
+                </ul>
+            </div><!-- end #navigation -->
+        </div><!-- end .container -->
+    </div><!-- end #topbar -->
+
+    <div id="header-inner" class="banner07 transitions">
+        <h2 class="transitions">Order Now</h2>
+    </div><!-- end #header -->
+
+
+    <div id="content" class="inner-page">
+        <div class="container2">
+            <div class="left-col">
+                <h2>Sign up to become one of Awasr's first Customers</h2>
+                <p>Ordering is as simple as 1-2-3. After you place your order, you will receive an email to confirm the
+                    order, once you confirm our customer care team will get in touch with you to guide you on what is
+                    going to happen next. The customer care team will also inform you if any extra document will be
+                    required to complete the process.</p>
+            </div><!-- end left-col -->
+
+            <div class="right-col">
+                <div class="process-diagram">
+                    <img src="images/process.jpg" alt="process diagram"/>
+                </div><!-- end #process-diagram -->
+            </div><!-- end right-col -->
+
+            <div class="clear"></div>
+
+            <h1>Our Network</h1>
+            <p>Awasr's new 100% fibre-optic broadband service is available in Muscat to give you high speed connections
+                to the Internet and an enhanced experience.</p>
+
+            <h3>Start Now by selecting the area where you want our service</h3>
+            <br/><br/>
+
+        </div><!-- end .container -->
+
+        <div class="no-covered-block"><p>Not covered on map? <br/><a href="contact.html" class="transitions">click here
+            to contact us</a></p></div>
+
+
+        <div id="tabs" class="_tab_map">
+            <a href="#terms-conditions-block" data-value='opt-2' class="cta transitions">Terms and Conditions</a>
+            <a href="#al-khoud-block" data-value='opt-3' class="cta transitions">Al Khoud</a>
+            <a href="#maabilah-block" data-value='opt-4' class="cta transitions">Maabilah</a>
+            <a href="#al-hail-block" data-value='opt-6' class="cta transitions">Al Hail</a>
+            <a href="#al-mawaleh-block" data-value='opt-7' class="cta transitions">Al Mawaleh</a>
+            <a href="#shatti-al-qurum-block" data-value='opt-5' class="cta transitions">Shatti Al Qurum</a>
+            <div class="clear"></div>
+        </div>
+
+
+        <div id="tabs-responsive">
+            <select class="tabs-maps _tab_map">
+                <option value="opt-1">Network Coverage</option>
+                <option value="opt-2">Terms and Conditions</option>
+                <option value="opt-3">Al Khoud</option>
+                <option value="opt-4">Maabilah</option>
+                <option value="opt-6">Al Hail</option>
+                <option value="opt-7">Al Mawaleh</option>
+                <option value="opt-5">Shatti Al Qurum</option>
+            </select>
+            <div class="clear"></div>
+        </div>
+
+
+        <div id="network-coverage-block" class="opt-1 _tab_map_content _tab_map">
+            <img src="images/coverage-map.jpg" alt="coverage map" style="width:100%;"/>
+            <div id="legends">
+                <ul>
+                    <li><span class="completed">&#149;</span>
+                        <p>Work completed</p></li>
+                    <li><span class="progress">&#149;</span>
+                        <p>Work in progress</p></li>
+                    <li><span class="future">&#149;</span>
+                        <p>Future works</p></li>
+                </ul>
+            </div>
+
+        </div><!-- end #network-coverage-block -->
+
+
+        <div id="terms-conditions-block" class="opt-2 _tab_map_content" style="display:none">
+            <p>These Terms and Conditions set out the way in which Awasr Oman and Partners SAOC ("Awasr") will provide
+                our Broadband Services (the "Services") to you.</p>
+            <p>Our core values as a company are Simple, Caring, Agile and Smart. We try to make sure these values are a
+                part of everything we do. These terms and conditions are important. Please read them carefully.</p>
+            <p>Because we are caring we make ourselves available to you 365 days a year by phone by simply calling 8000
+                1000. </p>
+            <p>You may also contact us by:<br/>
+                • sending us an e-mail to care@awasr.om,<br/>
+                • visiting one of our Awasr stores or kiosks during opening hours, or<br/>
+                • sending us a letter addressed to:</p>
+            <p>Awasr Oman<br/>
+                Knowledge Oasis Muscat,<br/>
+                Facility Building, 4th Floor,<br/>
+                P.O. Box 53, PC 135, Muscat,<br/>
+                Sultanate of Oman.</p>
+            <p>
+                Please do contact us if you experience any problems with your service or if you think we can help in any
+                way.</p>
+            <p>The following are our terms and conditions of service.</p>
+            <h3>TERMS AND CONDITIONS FOR AWASR BROADBAND CUSTOMERS</h3>
+            <p>If you are an Awasr customer, the terms and conditions set out below will govern your use of our
+                Services, and the contractual relationship between us.</p>
+            <h2>1. Interpretation</h2>
+            <p>"Agents" means any contractors, providers, dealers or agents appointed by Awasr to perform any of Awasr's
+                obligations under this Agreement; </p>
+            <p>"Agreement" means these terms and conditions between us and you; </p>
+            <p>"Bar" means suspending access to Services; </p>
+            <p>"Bill Cycle" means the period of time between billings which will begin on a set date each month and will
+                last until the day before that date the following month (e.g. the 1st of one month to the 1st of the
+                next month). The number of days in your Bill Cycle is variable in accordance with the number of days in
+                a month. You will be informed of your Bill Cycle when you sign up for the Services. </p>
+            <p>"Bill Issue Date" – the date your bill is generated. </p>
+            <p>"Charges" means all monthly access charges, and any additional charges payable by you; </p>
+            <p>"Connection" means an Awasr service that has been configured to attach to the Network so that you can use
+                the Services supplied under the Agreement; </p>
+            <p>"Equipment" means the Customer Premise Equipment provided by Awasr that connects you to our Network for
+                the provision of the Services, this includes, but not limited to, your Wi-Fi router; </p>
+            <p>"Customer Care" means the Awasr Customer Care team.</p>
+            <p>
+                "Minimum Subscription" is the period defined in Clause 2(b). </p>
+            <p>"Network" means our Awasr fixed line network. </p>
+            <p>"Service(s)" means the voice and broadband service and related products and services that are made
+                available to you by us or our agents under this agreement.
+                "User" means any individual who uses the Services; </p>
+            <p>"Website" means our website at www.awasr.om; </p>
+            <p>"we" or "us" means Awasr and "our" has a corresponding meaning; </p>
+            <p>"you" means the customer under this Agreement who is liable for all of the Charges under this Agreement
+                and "your" has a corresponding meaning.</p>
+            <h2>2. Commencement of Agreement and Term </h2>
+            <p>a) This Agreement begins when we set up your connection to our Services to be available for your
+                use. </p>
+            <p>b) The minimum contractual period shall be twelve (12) months ("Minimum Subscription").</p>
+            <p>c) You may terminate the annual agreement under the following conditions:<br/>&#149; By giving us a
+                minimum of 3 months' notice of the termination;<br/>&#149; By paying your normal monthly subscription
+                for the 3 month notice period even if termination occurs sooner than 3 months or if that was decided by
+                the TRA. <br/>&#149; By returning all equipment such as WiFi routers, which were delivered as part of
+                your service, or, paying for equipment that is damaged or that you are unable to return to us.<br/>&#149;
+                Some of our Services may be offered with a discount when you sign up for a fixed period (for example,
+                the first month may be free). If you accept such a discount, and terminate before the Minimum
+                Subscription period then you will be liable to repay any discounts applied at inception of the Service.
+            </p>
+            <p>d) The Services continue until terminated in accordance with this Agreement. </p>
+            </p>
+
+            <h2>3. Coverage and Services </h2>
+            <p>a) Awasr likes to keep things Simple. We are a specialized fibre-optic broadband internet service
+                provider and as such we strive to offer a superior broadband service in the Sultanate. However, we can
+                only offer our service where we have fibre-optic network available.</p>
+            <p>b) Coverage and quality of the service that we provide will be in compliance with the related regulatory
+                requirements of the Oman Telecommunications Regulatory Authority.</p>
+            <p>c) You agree that you will not use the Services: <br/>
+                &#149; in a way which breaks any laws or infringes anyone's legal rights; <br/>
+                &#149; to obtain unauthorised access to anyone's computer or communications equipment; <br/>
+                &#149; to annoy anyone or to interfere with anyone else's use of our Services.</p>
+            <p>d) We reserve the right to remove any material from our servers which we consider, in our reasonable
+                opinion, to breach the terms of this Agreement or any law. </p>
+            <p>e) The Services may be changed, modified, advanced, suspended or removed by us or introducing substitute
+                or new services. We will notify you 30 calendar days before doing this. </p>
+            <p>f) You agree to follow our instructions about the use of the Services and ensure that all Users meet your
+                responsibilities when using the Service. You agree to keep us protected against any legal action taken
+                against us and to meet any losses we may incur as a result of such use of the Services. You are
+                responsible for any Users use or misuse of the Services. </p>
+            <p>g) You agree not to use the Services for any abusive, illegal or fraudulent purpose. </p>
+            <p>h) Using or agreeing to use the Services does not convey any ownership of the Services. You must not
+                resell, in any way whatsoever, the whole or any part of the Services. </p>
+            <p>i) You agree that if you use Services in any way that may negatively impact our Network or the provision
+                of the Services, we may restrict or suspend your use of the Services. </p>
+            <p>j) You acknowledge that our control of voice and data speeds is limited to our own network. We may use
+                traffic prioritisation policies at any time to improve the overall performance among our customers. It
+                may not be possible for you to achieve your desired or expected speed or latency for Connections to
+                servers outside the Awasr network.</p>
+            <p>k) The integrity or quality of the data or information you send or receive via the Services may be
+                affected or compromised due to the configuration of our network, the use of the internet, or the
+                configuration or limitations of your, or your intended recipient's, hardware or other device. </p>
+
+            <h2>4. Fair Usage Policy </h2>
+            <p>a) The Services are offered for reasonable use only. Excessive use of the Services beyond that which, in
+                our reasonable discretion, is normal and reasonable usage and which, as a result has the potential to
+                negatively impact the quality of service available to other subscribers may result in us temporarily
+                throttling the Services which may impact the desired or expected speed. </p>
+
+            <h2>5. Equipment </h2>
+            <p>a) Unless provided otherwise in this Agreement, all Equipment supplied by Awasr as part of a service
+                shall remain the property of Awasr. Equipment that is included in our service, such as a WiFi router
+                also remain the property of Awasr until you have paid your Minimum Subscription.</p>
+            <p>b) You are responsible for keeping all Equipment in good condition, and for the security, protection from
+                unauthorized access, any loss or damage to the Equipment, with the exception of normal wear and
+                tear.</p>
+            <p>c) We will be entitled to inspect or test any Equipment remotely or otherwise at such times as may be
+                agreed between us.</p>
+            <p>d) You will not remove or obscure any logo or writing on Equipment and will replace all batteries and
+                other consumable parts of the Equipment.</p>
+            <p> e) You will not, and will ensure that Users do not tamper with or attempt to repair or service the
+                Equipment or allow any party other than Awasr to do so. Any attempt to do this may invalidate the
+                manufacturer's warranty. </p>
+            <p>f) You will not sell any Equipment, place a charge on it or otherwise dispose of it. </p>
+            <p>g) Awasr's supply of Equipment shall be subject to availability. </p>
+            <p>h) We will provide you with a limited warranty for Equipment. Where Equipment becomes faulty for reasons
+                other than through your acts, omissions or misuse within the Minimum Subscription period, we will repair
+                or replace the Equipment.</p>
+            <p>i) Awasr does not manufacture Equipment and except for Clause 5(h) (above) excludes, to the fullest
+                extent permissible at law, all warranties, terms or conditions in relation to Equipment, whether implied
+                by law or otherwise.</p>
+            <p>j) You agree not to use any hardware provided by Awasr to connect to internet services provided by any
+                other internet service provider. If you do, we reserve the right to terminate this Agreement.</p>
+
+            <h2>6. Billing </h2>
+            <p>a) We will assign a monthly Bill Cycle for your account. </p>
+            <p>b) We will issue a bill to you at the end of the Bill Cycle of your account. Email bills will be sent
+                within 4 days of when your next Bill Cycle begins. The date your bill is generated is called your "Bill
+                Issue Date". </p>
+            <p>
+                c) Bills are available only as email, Awasr does not mail paper bills. Your bill can be in either Arabic
+                or English. You are required to select one language preference. You will be able to change your desired
+                language preference by contacting Customer Care or visiting an Awasr retail store. Awasr will provide
+                bills to persons with disabilities in special format as required by the relevant TRA regulations.</p>
+            <p>d) You may request a paper bill at one of our retail outlets. Bills may also be accessed online as a
+                definitive version in PDF, or as text files for subscribers with special needs. If you ask us to print a
+                detailed paper bill for you, then you will be charged OMR 1 per bill. </p>
+            <p>e) The bill will include a summary of the billed charges of your account. </p>
+            <p>f) You must pay the billed charges on your account within 30 days from Bill Issue Date, otherwise, the
+                charges will become overdue.</p>
+            <p>g) Any dispute in the billed amount must be reported to us within 60 days of the Bill Issue Date.</p>
+            <p>h) We reserve the right to Suspend or disconnect the services where undisputed payment is overdue. The
+                Suspension or disconnection will take effect on all connections on your account. You will be provided
+                with two weeks' notice prior to disconnection of your service. The Suspension will be removed upon
+                settling the outstanding amounts.</p>
+            <p>i) Where payment is not received in full after 180 days from the Bill Issue Date, we will terminate this
+                agreement and disconnect all connections on your account.</p>
+
+            <h2>7. Charges </h2>
+            <p>a) You agree to pay us the relevant charges for the provision of the Services, whether you or someone
+                else use the Services. </p>
+            <p>
+                b) All your account charges will be billed once a month at the end of each Bill Cycle.</p>
+            <p>c) Most charges will appear on the bill immediately following the time period in which charges were
+                incurred. In certain circumstances due to operational matters beyond our control, the application of
+                charges to your bill may be delayed. You are nevertheless required to pay all billed charges (except any
+                that are subject to a dispute with us) when they fall due, as stated on your bill. </p>
+            <p>d) You may request a credit limit by either paying a deposit or providing your credit card details for
+                security purposes. The amount of any deposit will depend on your requested credit limit amount.</p>
+            <p>e) If you reach or exceed your credit limit, your account will be suspended. The Suspension will be
+                removed upon settling all of the outstanding amounts. </p>
+
+            <h2>8. Deposits and credit </h2>
+            <p>a) In some circumstances we may require you to pay a deposit to us before we connect your service. If you
+                are unhappy with our credit assessment, please contact us and request to have our assessment of your
+                credit reviewed.</p>
+            <p>b) You may make a deposit against your account at any time. Overpayments will appear as a credit on your
+                account. </p>
+            <p>c) If you wish to retrieve an account credit, you may request repayment by cheque or by bank deposit, or
+                we can apply it as a payment credit against any and all outstanding and future charges on your account.
+                Repayments will be made within 60 days from the date of request for release of the account credit.</p>
+
+            <h2>9. Limitation of Liability </h2>
+            <p>a) Except where we cause direct damage to your physical property due to our negligence, to the extent
+                allowed by law we exclude any liability of any kind (whether in contract, tort, equity or otherwise) to
+                you or anyone claiming through you, relating to any loss of profits or revenue, loss of data, lost
+                business or missed opportunities, wasted expenditure or savings you might have had, or any form of
+                indirect or consequential loss whatsoever, arising from:<br/>
+                &#149; your connection to our network or the content or supply of any Services; <br/>
+                &#149; the failure, interruption or delay in the supply of, any services or any part of them or any
+                negligence in this regard; <br/>
+                &#149; the fitness of all or any of the Services for any particular purpose; <br/>
+                &#149; the inaccurate or incomplete transmission of any data; <br/>
+                &#149; any other matter which relates to this Agreement.</p>
+            <p>b) Except as set out above, we have no other liability to you or any other person in respect of this
+                Agreement. </p>
+
+
+            <h2>10. Access to Premises </h2>
+            <p>a) You will allow us or our Agents access to your property to perform our obligations under this
+                Agreement. We will always try to give you reasonable prior notice if we require access to your premises
+                and we will ensure that we or our Agents carry sufficient proof of identity. If you do not allow us to
+                access your premises your ability to use the Services may be adversely affected. </p>
+
+
+            <h2>11. Relocation of Premises </h2>
+            <p>a) If you plan to relocate to different premises after the installation of any Services, the Services may
+                be relocated so long as the new address is in an area in which we provide the relevant Services. You
+                must provide at least 45 days' notice before the expected moving date and provide full details of the
+                new premises for evaluation. If Awasr is not able to provide a connection to your new home location,
+                then you shall be entitled to terminate the service without penalty.</p>
+            <p>b) There may be Charges for relocating Services. Any Charges will be disclosed to you prior to relocating
+                the relevant Service.</p>
+
+            <h2>12. Non Awasr Hardware and third-party services </h2>
+            <p>a) If you have acquired hardware from some other source, for example from overseas or second-hand, and it
+                does not support all of the services offered by us, we are not under any obligation to take any action
+                so that you can access any our Services.</p>
+            <p>b) We do not make any warranty as to the accuracy, completeness or currency of any content or material
+                which you may access using our Services. Where Services are provided by a third party we accept no
+                responsibility or liability for their quality or the nature of their content.</p>
+
+            <h2>13. Privacy </h2>
+            <p>a) Awasr's use of your personal information is governed by this Agreement and by the Awasr Privacy Policy
+                which can be accessed on our Website, in accordance with the relevant TRA regulations.</p>
+            <p>b) We may provide your personal information to law enforcement agencies in order for them to investigate
+                an offence.</p>
+            <p>c) Subject to any rights you may have under any applicable laws or regulations, we will not be liable to
+                you, or to anyone else, for:<br/>
+                &#149; the content or lack of confidentiality of any services you use; <br/>
+                &#149; any disclosure we make by law to a enforcement agencies. </p>
+
+
+            <h2>14. Disconnection of Services </h2>
+            <p>a) You may discontinue your connection to our network or give up the Service at any time by sending us
+                written notice of the termination.</p>
+            <p>b) We can Bar, re-direct or restrict your use of any or all of the Services or disconnect your connection
+                if:
+                &#149; you do not abide by the terms and conditions in this Agreement; <br/>
+                &#149; you behave in an abusive, offensive, or malicious or way, or use any of our Services in an
+                offensive way; <br/>
+                &#149; we suspect you of using the services for any illegal or fraudulent activity; or <br/>
+                &#149; If we suspend your use of our Services, we will try to contact you before doing so.</p>
+            <p>c) Where we Bar, re-direct or restrict the Services all Charges will continue to apply. </p>
+
+            <h2>15. Transferring Responsibilities </h2>
+            <p>a) Your interests in this Agreement are personal to you and you may not transfer or on-sell the Agreement
+                or any benefit or obligation under it to another person without our consent.</p>
+            <p>b) Awasr's right to end this Agreement Not withstanding any other clause in this Agreement, we may
+                disconnect your connection or terminate particular Services: <br/>
+                &#149; By giving you twenty one (21) days written notice; or <br/>
+                &#149; if any of our licenses to operate our network is ended or suspended. </p>
+
+
+            <h2>16. Notices and Variations of Charges, Terms and Pricing Plans </h2>
+            <p>a) We may change this Agreement and any Services at any time. Changes will be posted on our Website.
+                Please check this regularly for updates. We will notify you in writing 15 before days implementing such
+                changes. All changes shall be subject to TRA approval.</p>
+
+
+            <h2>17. Force Majeure </h2>
+            <p>a) Neither you, nor we will be liable for any delay or failure of the Services or responsibilities under
+                this Agreement, or for any loss or damage from such delay or failure to the extent that it was caused,
+                in whole or part, by an act of God, war, terrorism, civil disobedience, industrial stoppage or unrest,
+                fire, volcanic eruption, earthquake, shortage of suitable labour, materials, equipment or energy or any
+                other event beyond our control.</p>
+
+            <h2>18. Agents of Awasr</h2>
+            <p>a) We shall be entitled to subcontract or delegate the performance of any of our rights or obligations
+                under this Agreement but any such subcontracting or delegation will not relieve us from liability for
+                performance of any such obligation. </p>
+
+            <h2>19. Privacy</h2>
+            <p>a) We may record calls made by you to our multi-media contact center for purposes such as training, or
+                any other purpose in accordance with the law.</p>
+
+            <h2>20. Confidentiality of Customer Information</h2>
+            <p>a) Awasr or its approved agents may collect personal information from customers for the purpose of
+                providing service, sending bills, giving directory information and credit assessment. Customer personal
+                data shall not be used by Awasr for any other use without first obtaining permission from the
+                customer. </p>
+            <p>b) Upon receiving an authorized request in writing, Awasr shall allow the customer to correct or update
+                any of their personal information that may be inaccurate, incomplete or out of date.</p>
+            <p>c) Awasr shall disclose customer information to law enforcement agencies to assist in prevention of crime
+                and to emergency services in the performance of their duties, when demanded by these agencies. It is
+                really important that we have accurate information regarding our customers. We rely on the information
+                you have provided to us as part of your application form for a range of purposes and therefore it needs
+                to be current. If the information you have provided us changes, we request that you let us know as soon
+                as possible. If we become aware that information you have provided us is no longer accurate we may
+                suspend or terminate your service. We will usually try to contact you before we do this but it may not
+                always be possible.</p>
+
+            <h2>21. Disputes</h2>
+            <p>a) If there is any dispute between us, this will be governed by our dispute resolution policy. After 15
+                days or if you are not satisfied with our reply, you have the right to approach TRA to resolve the
+                dispute in accordance with the Dispute Resolution Regulation No. 44/2010.</p>
+
+            <h2>22. Governing Law and Regulation</h2>
+            <p>a) This Agreement and our services are governed by the laws of the Sultanate of Oman and the Oman
+                Telecommunication Regulatory Act issued by Royal Decree No.30/2002 and all regulations, decision and
+                instructions issued by the TRA from time to time. This is in addition to the Consumers Protection Act
+                issued by Royal Decree No 81/2002.</p>
+        </div><!-- end #network-coverage-block -->
+
+
+        <div id="al-khoud-block" class="opt-3 _tab_map_content" style="display:none">
+            <h1>Coverage Areas</h1><br/>
+            <div class="content-block" id="al-khoud">
+                <h2>Al Koudh</h2>
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Koudh.html" id="al-khoud-map"></iframe>
+            </div>
+
+
+        </div><!-- end #al-khoud-block -->
+
+
+        <div id="al-hail-block" class="opt-6 _tab_map_content" style="display:none">
+            <div class="content-block" id="al-hail">
+                <h2>Al Hail</h2>
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Hail.html" id="al-hail-map"></iframe>
+            </div>
+        </div><!-- end #al-khoud-block -->
+
+
+        <div id="al-mawaleh-block" class="opt-7 _tab_map_content" style="display:none">
+            <div class="content-block" id="al-mawaleh">
+                <h2>Al Mawaleh</h2>
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Mawaleh.html" id="al-mawaleh-map"></iframe>
+            </div>
+
+            <div class="content-block" id="al-mawaleh2">
+                <h2>Al Mawaleh South</h2>
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Mawaleh-south.html" id="al-mawaleh-map"></iframe>
+            </div>
+        </div><!-- end #al-khoud-block -->
+
+
+        <div id="maabilah-block" class="opt-4 _tab_map_content" style="display:none">
+            <h1>Coverage Areas</h1><br/>
+
+            <div class="content-block" id="Al-Maabilah-West">
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Maabilah-West.html" id="al-khoud-map"></iframe>
+            </div>
+
+
+            <div class="content-block" id="Al-Maabilah-South">
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Maabilah-South.html" id="al-mawaleh-map"></iframe>
+            </div>
+
+            <div class="content-block" id="Al-Maabilah-North">
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Al-Maabilah-North.html" id="al-hail-map"></iframe>
+            </div>
+        </div><!-- end #maabilah-block -->
+
+        <div id="shatti-al-qurum-block" class="opt-5 _tab_map_content" style="display:none">
+            <h1>Coverage Areas</h1><br/>
+            <div class="content-block" id="Shatti-Al-Qurum">
+                <h2>Shatti Al Qurum</h2>
+                <iframe style="width: 100%; padding: 0px; margin: 0px; border: medium none; display: block; height: 500px; overflow: hidden;"
+                        src="Shati-Al-Qurum.html" id="al-hail-map"></iframe>
+            </div>
+        </div><!-- end #shatti-al-qurum-block -->
+
+        <div class="clear"></div>
+    </div><!-- end #content -->
+
+    <div id="footer">
+        <div class="container">
+            <div id="footer_left">
+                <p>Copyright &copy; 2016 Awasr - All Rights Reserved. </p>
+            </div><!-- end #footer_left -->
+
+            <div id="footer_center">
+                <a href="https://www.facebook.com/AwasrOm" target="_blank" class="social transitions"><span
+                        class="icons facebook transitions">facebook</span></a>
+                <a href="https://www.twitter.com/AwasrOm" target="_blank" class="social transitions"><span
+                        class="icons twitter transitions">twitter</span></a>
+                <a href="https://www.linkedin.com/in/awasr" target="_blank" class="social transitions"><span
+                        class="icons linkedin transitions">linkedin</span></a>
+                <a href="https://www.instagram.com/awasrom/" target="_blank" class="social transitions"><span
+                        class="icons instagram transitions">instagram</span></a>
+            </div><!-- end #footer_center -->
+
+            <div id="footer_right">
+                <a href="index.html">Awasr</a>
+            </div><!-- end #footer_right -->
+
+            <div class="clear"></div>
+        </div><!-- end .container -->
+    </div><!-- end #footer -->
+
+</div><!-- end main -->
+</body>
+</html>

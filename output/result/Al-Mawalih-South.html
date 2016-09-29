@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Al Mawalih South</title>
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <style>
+        article, aside, figure, footer, header, hgroup, menu, nav, section {
+            display: block;
+        }
+
+        html, body, #map_canvas {
+            margin: 0;
+            padding: 0;
+        }
+
+        .ftth-coverage-Map {
+            padding: 0;
+            margin: 0;
+        }
+
+        #map_container {
+            position: relative;
+        }
+
+        #map_canvas {
+            height: 0;
+            overflow: hidden;
+            padding-bottom: 22.25%;
+            padding-top: 30px;
+            position: relative;
+        }
+    </style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="jquery.responsiveiframe.js"></script>
+    <script type="text/javascript" src="maps/main.js"></script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCATdBJFmt2m60q9RgeGoSjBbDlfQwwJWI&callback=networkAreas.areas.alMawalihSouth.initialize"></script>
+    <script type="text/javascript">
+        var ir = responsiveIframe();
+        ir.allowResponsiveEmbedding();
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-68283731-4', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+<div id="map_container" class="ftth-coverage-Map">
+    <div id="map_canvas" style="width:100%; height:500px;"></div>
+</div>
+</body>
+</html>
